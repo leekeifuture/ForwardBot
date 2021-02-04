@@ -3,4 +3,4 @@
 ### __Usage:__
 
     /add <id> - add new id to trusted list
-    /remove <id> - add remove id from trusted list
+    /remove <id> - remove id from trusted list
